@@ -1,0 +1,127 @@
+#EXTM3U
+#EXTINF:0 group-title="US", MSNBC
+http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="US", NBC 4
+http://tv-cool.com:25461/josegonzalez/1621f946b4/40570
+#EXTINF:0 group-title="US", NBC
+http://ay32.aatvbox.club:8880/wh24m2122/TeEfz2hUKN/29633
+#EXTINF:-1 group-title="US",NBC 4 NEW YORK NEWS
+https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
+#EXTINF:0 group-title="US", NBC 5 CHICAGO
+http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
+#EXTINF:0 group-title="US", NBC NEWS NOW
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+#EXTINF:0 group-title="US", NBC LX
+https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_1080P_av-p.m3u8
+#EXTINF:0 group-title="US", NBC 15 
+http://cutt.ly/1tIzK8o
+#EXTINF:0 group-title="SPORT",ESPN 
+http://primestreams.tv:826/MichaelRivera/gJynWaBAOJ/86502
+#EXTINF:0 group-title="SPORT",NBCSN 
+http://web24.live:8080/1322648137/pYdn6V/768
+#EXTINF:-1 group-title="SPORT",SKY SPORT NEWS
+http://primestreams.tv:826/kenpapa58@yahoo.Com/FCvucnRGEZ/98801
+#EXTINF:-1 group-title="SPORT",SKY SPORT UNO
+http://masterline-ddns.ns0.it:25461/ktsxChJMA7/gqx2MohT/53838
+#EXTINF:-1 group-title="SPORT",SKY SPORT UNO
+http://live2.xwhmcs.com:23000/xxwqugih/4A83bPjd2i/36
+#EXTINF:-1 group-title="SPORT",SKY SPORT UNO
+http://omero.jyngle.kiev.ua:80/omercasertapietro/ti0Z7T6zsy/671
+#EXTINF:-1 group-title="SPORT",SKY SPORT PREMIER LEAGUE 
+http://beams-tv.stream:80/madturnip07@yahoo.com/8832554033/250
+#EXTINF:-1 group-title="SPORT",SKY SPORT FOOTBALL
+http://tv-byob.com:80/jake@hawkinzzz.co.uk/2265598302/1015
+#EXTINF:-1 group-title="SPORT",SKY SPORT F1
+http://grdts.jrtf21.com:2082/dondream_312833/68U5Dja4/50276
+#EXTINF:-1 group-title="SPORT",SKY SPORT F1 ITA
+http://tani-hd-iptv.ddns.net:25461/Klaudio/ejsBCRsM/24418
+#EXTINF:0 group-title="UK", ITV
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8?checkedby:iptvcat.net
+#EXTINF:0 group-title="UK", ITV HD
+http://hd11.waldi2017.com:2082/110015769902207/41610111/21548
+#EXTINF:0 group-title="UK", ITV2
+http://vadaaaa.com:2086/gizemli-02/02.10x20T/641
+#EXTINF:0 group-title="UK", BBC ONE
+http://mains.services:2086/nick5404/9928627/100036
+#EXTINF:0 group-title="UK", BBC TWO
+http://buyiptv.in.net:80/g583/vn60ib/1058
+#EXTINF:0 group-title="UK", Channel 4 HD
+http://iptv.ktvstreams.com:826/MrJayCooky/h9Fpo4VDf6/106937
+#EXTINF:0 group-title="UK", Channel 5
+http://185.99.253.46:8000/play/a03p
+#EXTINF:0 group-title="US", FOX NEWS
+https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
+#EXTINF:0 group-title="US", FOX NEWS NOW
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="US", FOX SOUL
+http://fox-foxsoul-roku.amagi.tv/playlist.m3u8
+#EXTINF:0 group-title="US", FOX 5
+https://lnc-wnyw-fox-aws.tubi.video/index.m3u8
+#EXTINF:0 group-title="US", FOX 7
+http://xdgo.live:8080/alexandrar18/SsHJVFvSze/27037
+#EXTINF:0 group-title="US", CBN Family
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 group-title="US", ABC
+https://content-auso2.uplynk.com/channel/9c9e4e410b5a471391c116166d8c010e.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="US", ABC 9 
+http://api.zforce.tv:826/FZRcClEGfk/HbB79oGcG8/38699
+#EXTINF:-1 group-title="US",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:0 group-title="US", CBS 
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:0 group-title="US", CBS NY
+https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
+#EXTINF:0 group-title="BACKUP", LA 1
+http://g6npegxsu01pqvcwcezon5.ols.caja.live/live/sup.php?z=997&u=119n370LI5ai6W7&s=389690787011101&id=355&t=live&f=ts
+#EXTINF:0 group-title="ESPANA", LA 1 HD
+http://tachan19.click:25461/m995/czJqCESiVF/157
+#EXTINF:0 group-title="ESPANA", LA 2 
+http://dimapro.cz:8080/00:1A:79:17:0A:DD/ziajdjjfdifjd64646/38379
+#EXTINF:0 group-title="BACKUP", LA 2 
+http://smart.hotfeb.xyz:80/h21041003/651032140/165030
+#EXTINF:0 group-title="ESPANA", ANTENA 3 HD
+http://galaxy.golemflixer.com:8080/play/OsNMhiI1PxImiT_kL-KgjDCAE-adVZ6k9oN9SHkRWCC0dOuMG31uaXpzpSiSoVvP/ts
+#EXTINF:0 group-title="ESPANA", CUATRO
+http://galaxy.golemflixer.com:8080/play/OsNMhiI1PxImiT_kL-KgjOC0KTEFzWQ_T9wxqOx0Qp7vr5MysJHeoDmZefY8JCDn/ts
+#EXTINF:0 group-title="ESPANA", TELECINCO
+http://xnw8639vdtyprzqio4ubwl.3mu.caja.live/live/dash.php?z=997&u=TAo0TEQd4y&s=1761111601&id=374&t=live&f=ts
+#EXTINF:0 group-title="ESPANA", LA SEXTA
+http://mysecuritycam.eu:16004/Corralpadre/F38bfOgQFm/21
+#EXTINF:0 group-title="LATINO", UNIVISION
+http://xdgo.live:8080/hernandez95antonio/SEfRfu43Nv/396
+#EXTINF:0 group-title="BACKUP", UNIVISION
+http://xdgo.live:8080/rene40/cxBPUM7pSa/391
+#EXTINF:0 group-title="LATINO", NBC UNIVERSO
+http://pakotv.us:8080/hugo1/kQe6kYpQj4/187234
+#EXTINF:0 group-title="LATINO", TELEMUNDO
+http://xdgo.live:8080/gpwrightinc/ScyssPmt7D/27842
+#EXTINF:0 group-title="LATINO", TELEMICRO 5
+https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0, group-title="LATINO", FOX DEPORTES 
+http://tvlatina.homeip.net:25461/carlospenagos/carlos24/110
+#EXTINF:-1 group-title="US",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 group-title="US",CNN
+http://1111296894.rsc.cdn77.org/ls-54548-1/index.m3u8
+#EXTINF:-1 group-title="News",Euronews
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/BloombergTV.us.png" group-title="News",Bloomberg US
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="Movies",Paramount Movies
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
+#EXTINF:-1 group-title="Movies",Showtime 
+http://we.caughtyousnooping.club:80/Peterbilt386/XJ2xe34o8k/180
+#EXTINF:-1 group-title="Movies",HBO 
+http://primestreams.tv:826/Paraneice@yahoo.com/uMSN5mdaPK/95926
+#EXTINF:-1 group-title="Movies",HBO 
+http://xtra.xcs521.cz:8080/00:1A:79:17:03:E1/ziajdjjfdifjd64646/39122
+#EXTINF:-1 group-title="Movies",HBO Commedy 
+https://gotdark.com:443/Ropo1234/AP285york/56
+#EXTINF:-1 group-title="Movies",HBO 2 
+http://geri.golemflixer.com:8080/play/LQuRd3YLnksqNA4xEf4InEsMlVVPOk_YBbOvz30OcSHieqkZcyhdR4gc2ZRZHe3P/ts
+#EXTINF:-1 group-title="Movies",HBO 3 
+http://iptvclub.live:25461/UL3zmfPXpC0ZrJN/g8jZcNeTFFTtvma/94818
+#EXTINF:-1 group-title="Movies",HBO ZONE
+http://goplays.xyz:8000/LuisMendez/ugKbGLbERY/8936
+#EXTINF:-1 group-title="Movies",FOX Movie ES
+http://1581.f5.si:8000/chapitoorozcoa/I5Nb6NaGML/3750
